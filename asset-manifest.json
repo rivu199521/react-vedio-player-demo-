@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-vedio-player-demo/static/css/main.b7f521ac.chunk.css",
+    "main.js": "/react-vedio-player-demo/static/js/main.fc725faa.chunk.js",
+    "main.js.map": "/react-vedio-player-demo/static/js/main.fc725faa.chunk.js.map",
+    "runtime-main.js": "/react-vedio-player-demo/static/js/runtime-main.119a892b.js",
+    "runtime-main.js.map": "/react-vedio-player-demo/static/js/runtime-main.119a892b.js.map",
+    "static/js/2.99f4cc10.chunk.js": "/react-vedio-player-demo/static/js/2.99f4cc10.chunk.js",
+    "static/js/2.99f4cc10.chunk.js.map": "/react-vedio-player-demo/static/js/2.99f4cc10.chunk.js.map",
+    "index.html": "/react-vedio-player-demo/index.html",
+    "precache-manifest.86172ed413149b25de41fea261816f01.js": "/react-vedio-player-demo/precache-manifest.86172ed413149b25de41fea261816f01.js",
+    "service-worker.js": "/react-vedio-player-demo/service-worker.js",
+    "static/css/main.b7f521ac.chunk.css.map": "/react-vedio-player-demo/static/css/main.b7f521ac.chunk.css.map",
+    "static/js/2.99f4cc10.chunk.js.LICENSE.txt": "/react-vedio-player-demo/static/js/2.99f4cc10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.119a892b.js",
+    "static/js/2.99f4cc10.chunk.js",
+    "static/css/main.b7f521ac.chunk.css",
+    "static/js/main.fc725faa.chunk.js"
+  ]
+}
